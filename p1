@@ -5,6 +5,7 @@ cat
 dog
 egg
 fish
+<<<<<<< HEAD
 
 gun 
 hen
@@ -19,3 +20,5 @@ lock
 pen 
 queen
 
+=======
+>>>>>>> 084f87242f45e720dc0d9015430e5d15293636f7
